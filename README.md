@@ -2,9 +2,8 @@
 --
 
 I'm a not quite fronted developer. but I want to become one.
-
-Now, I'm a begginer, which strongly want to be a real professional. This is my passion.
-
+Now, I'm a begginer, which strongly want to be a real professional. 
+This is my passion.
 
 
 
