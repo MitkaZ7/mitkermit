@@ -1,4 +1,8 @@
-### Hi there 👋
+#### 🤌 Hi there, my name is Dmitry, but everybody calls me ~~Giorgio~~ Mitka)
+___
+I'm a begginer fronted developer, 
+
+
 
 <!--
 **mitkermit/mitkermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
