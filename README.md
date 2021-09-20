@@ -1,5 +1,4 @@
 #### 🤌 Hi there, my name is Dmitry, but everybody calls me ~~Giorgio~~ Mitka)
---
 
 I'm a not quite fronted developer. but I want to become one.
 Now, I'm a begginer, which strongly want to be a real professional. 
