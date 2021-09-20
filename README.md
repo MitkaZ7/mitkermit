@@ -1,6 +1,11 @@
 #### 🤌 Hi there, my name is Dmitry, but everybody calls me ~~Giorgio~~ Mitka)
-___
-I'm a begginer fronted developer, 
+--
+
+I'm a not quite fronted developer. but I want to become one.
+
+Now, I'm a begginer, which strongly want to be a real professional. This is my passion.
+
+
 
 
 
